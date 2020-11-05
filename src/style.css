@@ -1,3 +1,20 @@
+body{
+    background-color: black;
+}
+
 .blue-text{
     color: blueviolet;
+}
+
+#navbar{
+    float:left;
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 100%;
+}
+
+.card{
+    float: left;
+    width: 25%;
+    margin: 10px;
 }
