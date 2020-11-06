@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import 'bootstrap/dist/css/bootstrap.css';
+
 import App from './app';
 
 import './style.css';
@@ -23,7 +25,7 @@ import './style.css';
     // Behind the scenes JSX performs operations of building React Component by creating Virtual DOMs and pushing them into the React DOM internally each and every time when it collides wwith each and every HTML tags.
 
 ReactDOM.render(<App/>,document.querySelector('#root'));
-//React.render(element,document.getElementById('#root'));
+//ReactDOM.render(<App/>,document.getElementById("root"));
 
 
 
