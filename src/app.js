@@ -3,6 +3,8 @@ import Card from './card';
 
 import Navbar from './navbar';
 
+//import registerServiceWorker from 'react-service-worker';
+
 import Jumbotron from './jumbotron';
 
 class App extends Component{
