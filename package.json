@@ -14,8 +14,11 @@
     "react-service-worker": "^0.1.1",
     "web-vitals": "^0.2.4"
   },
+  "engines": {
+    "npm": "5.7.1",
+    "node": "9.5.0"
+  },
   "scripts": {
-    "deploy":"build gh pages",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
