@@ -20,11 +20,8 @@
     "node": "14.11.0"
   },
   "scripts": {
-<<<<<<< HEAD
-=======
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
->>>>>>> development
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
