@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project has been deployed to Heroku, visit the link (url) --> "ranjan-das-cloud.github.io/react-demo-app"
+This project has been deployed to Github, visit the link (url) --> "ranjan-das-cloud.github.io/react-demo-app"
 
 
 ## Available Scripts
